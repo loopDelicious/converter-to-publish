@@ -1,3 +1,5 @@
+> forked from [this earlier example](https://github.com/loopDelicious/converter)
+
 # Automate Swagger 2.0 to Postman 2.0 updates
 
 Convert local Swagger 2.0 file to Postman 2.0, and then update Postman collection using Postman API
@@ -17,7 +19,7 @@ module.exports = {
 
 From the command line:
 
-    $ git clone https://github.com/loopDelicious/converter.git
+    $ git clone https://github.com/loopDelicious/converter-to-publish.git
 
 * Install your dependencies. 
 
